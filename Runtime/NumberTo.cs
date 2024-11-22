@@ -11,7 +11,7 @@ namespace BBUnity.Conversion {
             return number.ToString("X");
         }
 
-        public static String RetroScore(int score, int places = 10) {
+        public static string RetroScore(int score, int places = 10) {
             return NumberToRetroScore.Convert(score, places);
         }
     }

@@ -12,3 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - ListTo.String
   - NumberTo.RomanNumeral
   - NumberTo.RetroScore
+
+## [0.2.1] - 2024-11-22
+### Added
+
+- Simplifed with String to string 
