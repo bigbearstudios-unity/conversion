@@ -1,6 +1,6 @@
 {
   "name": "com.bigbearstudios.bbunity-conversion",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "displayName": "BBUnity Conversion",
   "description": "Conversion library for Unity / C#",
   "unity": "2018.3",
